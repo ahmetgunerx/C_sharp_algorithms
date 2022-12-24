@@ -6,14 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-	<div class="container">
-		<div class="qwer">
-			<div class="button123">1</div>
-			<div class="button123">2</div>
-			<div class="button123">3</div>
-			<
+	<div>
+		<div>
+			<a href="program.cs">gitmek için </a>
 		</div>
-	</div>z
+	</div>
 
 </body>
 </html>
