@@ -7,11 +7,12 @@
 </head>
 <body>
 	<h1 style="text-align: center;">
-		Some Examples
+		bükskslks
 	</h1>
+
 	<div>
-		<div>
-			<a href="https://github.com/ahmetgunerx/C_sharp_algorithms/blob/main/Program.cs">gitmek için </a>
+		<div style="text-align: center;">
+			<a href="program.cs">gitmek için </a>
 		</div>
 	</div>
 
