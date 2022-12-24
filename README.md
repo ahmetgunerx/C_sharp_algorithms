@@ -8,7 +8,7 @@
 <body>
 	<div>
 		<div>
-			<a href="program.cs">gitmek için </a>
+			<a href="https://github.com/ahmetgunerx/C_sharp_algorithms/blob/main/Program.cs">gitmek için </a>
 		</div>
 	</div>
 
