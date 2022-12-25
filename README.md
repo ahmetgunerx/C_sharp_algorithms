@@ -22,10 +22,4 @@
 
 <a href="https://github.com/ahmetgunerx/C_sharp_algorithms/blob/main/11.cs">11) Some C# matrix examples </a>  
 
-<a href=""> </a>
-
-<a href=""> </a> 
-  
-<a href=""> </a> 
-  
-<a href=""> </a> 
+<a href="https://github.com/ahmetgunerx/C_sharp_algorithms/blob/main/12.cs">12) Program that adds and removes elements from the stack in data structures </a>
