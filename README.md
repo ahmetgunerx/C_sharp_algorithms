@@ -16,10 +16,16 @@
 
 <a href="https://github.com/ahmetgunerx/C_sharp_algorithms/blob/main/8.cs">8) Program that finds the smallest element of the matrix created according to the number of dimensions imported </a>  
 
-<a href=""> </a>  
+<a href="https://github.com/ahmetgunerx/C_sharp_algorithms/blob/main/9.cs">9) Program that shows 4 different function definition states in C# </a>  
 
 <a href=""> </a>  
 
 <a href=""> </a>  
 
+<a href=""> </a>
 
+<a href=""> </a> 
+  
+<a href=""> </a> 
+  
+<a href=""> </a> 
