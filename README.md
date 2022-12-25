@@ -12,7 +12,7 @@
   
 <a href="https://github.com/ahmetgunerx/C_sharp_algorithms/blob/main/6.cs">6) Program that sorts students according to their grades from smallest to largest in a class of 30 students </a>  
   
-<a href=""> </a>  
+<a href="https://github.com/ahmetgunerx/C_sharp_algorithms/blob/main/7.cs">7) Program to find the smallest element of the diagonal of a matrix</a>  
 
 <a href=""> </a>  
 
