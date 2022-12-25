@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            /*9. 6x6 lık bir A matrisi girildiğinde
+            /* 6x6 lık bir A matrisi girildiğinde
             a)matrisin üst üçgenindeki elemanların en küçüğünü
             b)matrisin her bir satırındaki elemanların en büyüğünü ve 
             hangi satır sütun indisinden elde edildiğini bulup yazdıran bir programı yazınız.
