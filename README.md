@@ -10,7 +10,7 @@
 
 <a href="https://github.com/ahmetgunerx/C_sharp_algorithms/blob/main/5.cs">5) Program that processes the notes of a class of 20 people </a>
   
-<a href=""> </a>  
+<a href="https://github.com/ahmetgunerx/C_sharp_algorithms/blob/main/6.cs">6) Program that sorts students according to their grades from smallest to largest in a class of 30 students </a>  
   
 <a href=""> </a>  
 
