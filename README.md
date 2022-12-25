@@ -6,3 +6,4 @@
 
 <a href="https://github.com/ahmetgunerx/C_sharp_algorithms/blob/main/3.cs">3) Program to find largest even numbers in two arrays </a>
 
+<a href="https://github.com/ahmetgunerx/C_sharp_algorithms/blob/main/4.cs">4) Program to find the sum of rows and columns in a matrix <a/>
