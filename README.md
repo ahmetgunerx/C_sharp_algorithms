@@ -14,7 +14,7 @@
   
 <a href="https://github.com/ahmetgunerx/C_sharp_algorithms/blob/main/7.cs">7) Program to find the smallest element of the diagonal of a matrix</a>  
 
-<a href=""> </a>  
+<a href="https://github.com/ahmetgunerx/C_sharp_algorithms/blob/main/8.cs">8) Program that finds the smallest element of the matrix created according to the number of dimensions imported </a>  
 
 <a href=""> </a>  
 
