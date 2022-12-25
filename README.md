@@ -7,3 +7,19 @@
 <a href="https://github.com/ahmetgunerx/C_sharp_algorithms/blob/main/3.cs">3) Program to find largest even numbers in two arrays </a>
 
 <a href="https://github.com/ahmetgunerx/C_sharp_algorithms/blob/main/4.cs">4) Program to find the sum of rows and columns in a matrix <a/>
+
+<a href="https://github.com/ahmetgunerx/C_sharp_algorithms/blob/main/5.cs">5) Program that processes the notes of a class of 20 people </a>
+  
+<a href=""> </a>  
+  
+<a href=""> </a>  
+
+<a href=""> </a>  
+
+<a href=""> </a>  
+
+<a href=""> </a>  
+
+<a href=""> </a>  
+
+
